@@ -1,5 +1,5 @@
 - Hi, I’m  IKEM COLLINS OKWUKWE 
-- I am interesting in programming 
+- I am interested in programming 
 - I am currently learning c#
 - Also interested in .Net technology
 - I am looking to collaborate on any programming projecr
