@@ -10,7 +10,7 @@
 
 <h2>System Modelling & Simulation Projects:</h2>
 - <b>System Modeling and Simulation Exercise</b>
-- [Practicing System Modeling in C++](https://github.com/Ikem-Collins/SYTEMS-MODELLING-AND-SIMULATION)
+- [Practicing System Modeling in C++](https://github.com/Ikem-Collins/SYTEMS-MODELLING-AND-SIMULATION?search=1)
                                                       
 - <b>Full-Stack Web App</b>
  
