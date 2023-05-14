@@ -2,13 +2,18 @@
   <br/><a href="https://github.com/Ikem-Collins">Programmer</a>, 
   <a href=""https://github.com/Ikem-Collins">Full-Stack Developer</a>, 
   <a href="https://www.linkedin.com/in/ikem-collins/)">System Analyst</a></h1>
-
-<h2>👨‍💻 System Modelling & Simulation Projects:</h2>
-- <b>System Modeling and Simulation Exercise</b>
-  - [Practicing System Modeling in C++](https://github.com/Ikem-Collins/SYTEMS-MODELLING-AND-SIMULATION)
                                                       
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - 
+<h2> Certifications</h2>
+-Bachelor of Science(Computer Science)
+
+                                                      
+
+<h2>System Modelling & Simulation Projects:</h2>
+- <b>System Modeling and Simulation Exercise</b>
+- [Practicing System Modeling in C++](https://github.com/Ikem-Collins/SYTEMS-MODELLING-AND-SIMULATION)
+                                                      
+- <b>Full-Stack Web App</b>
+ 
                                                       
 - <b>PowerShell</b>
   
